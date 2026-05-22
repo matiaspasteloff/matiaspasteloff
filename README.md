@@ -12,7 +12,9 @@
 ## 🧑‍💻 About Me
 
 - 🎓 3rd year student of **Computer Engineering** at **UBA** (Universidad de Buenos Aires)
+- 💼 Starting a new job as a developer on **June 1st** 🎉
 - 🖥️ 6 years of programming experience, with focus on **Java, Python & SQL**
+- 🏀 Content creator — NBA reactions & live streams on **Playback** (avg. 80 concurrent viewers)
 - 📍 Based in Buenos Aires, Argentina
 
 ---
@@ -82,11 +84,11 @@
 
 <div align="center">
 
-![Matias's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiaspasteloff&show_icons=true&theme=tokyonight&hide_border=true)
+[![Matias's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiaspasteloff&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/matiaspasteloff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspasteloff&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspasteloff&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/matiaspasteloff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=matiaspasteloff&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matiaspasteloff&theme=tokyonight&hide_border=true)](https://github.com/matiaspasteloff)
 
 </div>
 
